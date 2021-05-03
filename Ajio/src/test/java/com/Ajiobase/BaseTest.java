@@ -16,35 +16,17 @@ public class BaseTest {
 	@BeforeClass
 	@Parameters({ "browser", "pageUrl" })
 	public void Setup(String browser, String pageUrl) {
-		switch (browser) {
-		case "chrome":
-			System.setProperty("webdriver.chrome.driver",
-					"C:\\Users\\venka\\Downloads\\chromedriver_win32\\chromedriver.exe");
-			driver = new ChromeDriver();
-			break;
 
-		case "edge":
-			System.setProperty("webdriver.edge.driver",
-					"C:\\Users\\venka\\Downloads\\edgedriver_win64 (1)\\msedgedriver.exe");
-			driver = new EdgeDriver();
-			break;
-
-		default:
-			System.setProperty("webdriver.chrome.driver",
-					"C:\\Users\\venka\\Downloads\\chromedriver_win32\\chromedriver.exe");
-			driver = new ChromeDriver();
-			break;
-
-		}
-
+		System.setProperty("webdriver.chrome.driver",
+				"C:\\Users\\venka\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		driver = new ChromeDriver();
 		driver.get(pageUrl);
 
-		softAssertion = new SoftAssert();
 	}
 
 	@AfterClass
 	public void TearDown() {
-		softAssertion.assertAll();
+
 		driver.close();
 	}
 
