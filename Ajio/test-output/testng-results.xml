@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 775]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 423]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 573]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 573]]>
+    </line>
+    <line>
+      <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 660]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 775]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for Bene Kleedis : Rs. 672]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 440]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 665]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 343]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 440]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 343]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 539]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for Bene Kleedis : Rs. 589]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 430]]>
+    </line>
+    <line>
+      <![CDATA[Price for iVOCis : Rs. 418]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 423]]>
+    </line>
+    <line>
+      <![CDATA[Price for iVOCis : Rs. 462]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for iVOCis : Rs. 462]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 432]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for GESPOis : Rs. 440]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 432]]>
+    </line>
+    <line>
+      <![CDATA[Price for iVOCis : Rs. 462]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 480]]>
+    </line>
+    <line>
+      <![CDATA[Price for ALTHEORYis : Rs. 1,049]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 343]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 719]]>
+    </line>
+    <line>
+      <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETPLAYis : Rs. 480]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for Carlton Londonis : Rs. 1,275]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 7,149]]>
+    </line>
+    <line>
+      <![CDATA[Price for Carlton Londonis : Rs. 1,429]]>
+    </line>
+    <line>
+      <![CDATA[Price for BROOKS BROTHERSis : Rs. 7,500]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for DNMXis : Rs. 349]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 4,500]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for DNMXis : Rs. 349]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,100]]>
+    </line>
+    <line>
+      <![CDATA[Price for Buckle Upis : Rs. 570]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,849]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for GASis : Rs. 1,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,619]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+    </line>
+    <line>
+      <![CDATA[Price for DNMXis : Rs. 349]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,494]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 2,116]]>
+    </line>
+    <line>
+      <![CDATA[Price for LEVISis : Rs. 1,399]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+    </line>
+    <line>
+      <![CDATA[Price for DNMXis : Rs. 240]]>
+    </line>
+    <line>
+      <![CDATA[Price for DNMXis : Rs. 280]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,750]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,849]]>
+    </line>
+    <line>
+      <![CDATA[Price for Carlton Londonis : Rs. 1,494]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 800]]>
+    </line>
+    <line>
+      <![CDATA[Price for LEVISis : Rs. 700]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+    </line>
+    <line>
+      <![CDATA[Price for CRUSSETis : Rs. 480]]>
+    </line>
+    <line>
+      <![CDATA[Price for Carlton Londonis : Rs. 1,429]]>
+    </line>
+    <line>
+      <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,350]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 2,700]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,679]]>
+    </line>
+    <line>
+      <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,494]]>
+    </line>
+    <line>
+      <![CDATA[Price for NETWORKis : Rs. 279]]>
+    </line>
+    <line>
+      <![CDATA[Price for NIKEis : Rs. 2,546]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 3,549]]>
+    </line>
+    <line>
+      <![CDATA[Price for WOAKERSis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 1,750]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Leatherkraftis : Rs. 500]]>
+    </line>
+    <line>
+      <![CDATA[Price for RED TAPEis : Rs. 600]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 3,709]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,327]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 2,364]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 5,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for LEVISis : Rs. 1,679]]>
+    </line>
+    <line>
+      <![CDATA[Price for Walkstyleis : Rs. 533]]>
+    </line>
+    <line>
+      <![CDATA[Price for CROCSis : Rs. 2,037]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,659]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 3,349]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 2,364]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 2,199]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 299]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 4,674]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 2,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for EL PASOis : Rs. 696]]>
+    </line>
+    <line>
+      <![CDATA[Price for EL PASOis : Rs. 999]]>
+    </line>
+    <line>
+      <![CDATA[Price for ADIDASis : Rs. 1,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for EL PASOis : Rs. 648]]>
+    </line>
+    <line>
+      <![CDATA[Price for IDis : Rs. 1,594]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 499]]>
+    </line>
+    <line>
+      <![CDATA[Price for Campusis : Rs. 1,499]]>
+    </line>
+    <line>
+      <![CDATA[Price for RED TAPEis : Rs. 779]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 3,499]]>
+    </line>
+    <line>
+      <![CDATA[Price for STELVIOis : Rs. 1,264]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 1,935]]>
+    </line>
+    <line>
+      <![CDATA[Price for Mactreeis : Rs. 682]]>
+    </line>
+    <line>
+      <![CDATA[Price for CROCSis : Rs. 2,156]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 2,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 2,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for U.S. Polo Assn.is : Rs. 1,499]]>
+    </line>
+    <line>
+      <![CDATA[Price for CROCSis : Rs. 4,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for Campusis : Rs. 979]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 5,109]]>
+    </line>
+    <line>
+      <![CDATA[Price for Pumais : Rs. 2,000]]>
+    </line>
+    <line>
+      <![CDATA[Price for STELVIOis : Rs. 879]]>
+    </line>
+    <line>
+      <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,659]]>
+    </line>
+    <line>
+      <![CDATA[Price for AARGENTis : Rs. 360]]>
+    </line>
+    <line>
+      <![CDATA[Price for Skechersis : Rs. 4,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for GOQiiis : Rs. 5,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for Scuderia Ferrariis : Rs. 3,483]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 6,789]]>
+    </line>
+    <line>
+      <![CDATA[Price for Scuderia Ferrariis : Rs. 3,483]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 7,178]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 5,975]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 15,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for French Connectionis : Rs. 5,000]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 9,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 10,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for Casiois : Rs. 6,566]]>
+    </line>
+    <line>
+      <![CDATA[Price for SUPERDRYis : Rs. 2,399]]>
+    </line>
+    <line>
+      <![CDATA[Price for FOSSILis : Rs. 9,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for Scuderia Ferrariis : Rs. 5,378]]>
+    </line>
+    <line>
+      <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for ELLEis : Rs. 6,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 3,498]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+    </line>
+    <line>
+      <![CDATA[Price for SKAGENis : Rs. 9,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for Casiois : Rs. 12,596]]>
+    </line>
+    <line>
+      <![CDATA[Price for Scuderia Ferrariis : Rs. 7,628]]>
+    </line>
+    <line>
+      <![CDATA[Price for Scuderia Ferrariis : Rs. 8,475]]>
+    </line>
+    <line>
+      <![CDATA[Price for Timexis : Rs. 3,326]]>
+    </line>
+    <line>
+      <![CDATA[Price for SUPERDRYis : Rs. 2,399]]>
+    </line>
+    <line>
+      <![CDATA[Price for French Connectionis : Rs. 3,816]]>
+    </line>
+    <line>
+      <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 4,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for Timexis : Rs. 1,859]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 6,975]]>
+    </line>
+    <line>
+      <![CDATA[Price for Casiois : Rs. 8,096]]>
+    </line>
+    <line>
+      <![CDATA[Price for FCUKis : Rs. 1,650]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 3,021]]>
+    </line>
+    <line>
+      <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for Daniel Kleinis : Rs. 2,275]]>
+    </line>
+    <line>
+      <![CDATA[Price for SUPERDRYis : Rs. 2,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Casiois : Rs. 22,496]]>
+    </line>
+    <line>
+      <![CDATA[Price for Timexis : Rs. 2,656]]>
+    </line>
+    <line>
+      <![CDATA[Price for Casiois : Rs. 8,096]]>
+    </line>
+    <line>
+      <![CDATA[Price for SUPERDRYis : Rs. 2,250]]>
+    </line>
+    <line>
+      <![CDATA[Price for FOSSILis : Rs. 7,995]]>
+    </line>
+    <line>
+      <![CDATA[Price for LACOSTEis : Rs. 6,053]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 269]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 269]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 709]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 239]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 237]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 369]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 369]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 319]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 599]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 509]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 509]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 629]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 329]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 609]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 349]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 709]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 399]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 559]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 399]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 299]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 349]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 299]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 359]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 499]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 259]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+    </line>
+    <line>
+      <![CDATA[Price for COMDAQis : Rs. 599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Reebokis : Rs. 750]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Studio B40is : Rs. 594]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 7,199]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,149]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 4,499]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,149]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 7,199]]>
+    </line>
+    <line>
+      <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+    </line>
+    <line>
+      <![CDATA[Price for BARBIEis : Rs. 909]]>
+    </line>
+    <line>
+      <![CDATA[Price for WINFUNis : Rs. 1,737]]>
+    </line>
+    <line>
+      <![CDATA[Price for Miradais : Rs. 467]]>
+    </line>
+    <line>
+      <![CDATA[Price for IWAYAis : Rs. 749]]>
+    </line>
+    <line>
+      <![CDATA[Price for SOFT BUDDIESis : Rs. 524]]>
+    </line>
+    <line>
+      <![CDATA[Price for HANLEY WOODis : Rs. 996]]>
+    </line>
+    <line>
+      <![CDATA[Price for FISHER PRICEis : Rs. 3,365]]>
+    </line>
+    <line>
+      <![CDATA[Price for SILVERLITis : Rs. 4,436]]>
+    </line>
+    <line>
+      <![CDATA[Price for FISHER PRICEis : Rs. 1,259]]>
+    </line>
+    <line>
+      <![CDATA[Price for SOFT BUDDIESis : Rs. 749]]>
+    </line>
+    <line>
+      <![CDATA[Price for IMCis : Rs. 3,999]]>
+    </line>
+    <line>
+      <![CDATA[Price for Mothercareis : Rs. 1,019]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98246" started-at="2021-05-03T08:31:25Z" finished-at="2021-05-03T08:33:03Z">
+    <groups>
+    </groups>
+    <test name="Ajio" duration-ms="98246" started-at="2021-05-03T08:31:25Z" finished-at="2021-05-03T08:33:03Z">
+      <class name="com.Ajiotest.TestCase">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Setup" is-config="true" duration-ms="14724" started-at="2021-05-03T08:31:25Z" finished-at="2021-05-03T08:31:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.ajio.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="11551" started-at="2021-05-03T08:31:43Z" data-provider="getData" finished-at="2021-05-03T08:31:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 775]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 423]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 573]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 573]]>
+            </line>
+            <line>
+              <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 660]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for DENNISLINGO PREMIUM ATTIREis : Rs. 775]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for Bene Kleedis : Rs. 672]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 440]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 665]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 343]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 440]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 343]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 539]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for Bene Kleedis : Rs. 589]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 430]]>
+            </line>
+            <line>
+              <![CDATA[Price for iVOCis : Rs. 418]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 423]]>
+            </line>
+            <line>
+              <![CDATA[Price for iVOCis : Rs. 462]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for iVOCis : Rs. 462]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 432]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for GESPOis : Rs. 440]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 432]]>
+            </line>
+            <line>
+              <![CDATA[Price for iVOCis : Rs. 462]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 480]]>
+            </line>
+            <line>
+              <![CDATA[Price for ALTHEORYis : Rs. 1,049]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 343]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 719]]>
+            </line>
+            <line>
+              <![CDATA[Price for The Indian Garage Cois : Rs. 612]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETPLAYis : Rs. 480]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="10943" started-at="2021-05-03T08:31:55Z" data-provider="getData" finished-at="2021-05-03T08:32:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Belt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for Carlton Londonis : Rs. 1,275]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 7,149]]>
+            </line>
+            <line>
+              <![CDATA[Price for Carlton Londonis : Rs. 1,429]]>
+            </line>
+            <line>
+              <![CDATA[Price for BROOKS BROTHERSis : Rs. 7,500]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for DNMXis : Rs. 349]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 4,500]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for DNMXis : Rs. 349]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,100]]>
+            </line>
+            <line>
+              <![CDATA[Price for Buckle Upis : Rs. 570]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,849]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for GASis : Rs. 1,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,619]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+            </line>
+            <line>
+              <![CDATA[Price for DNMXis : Rs. 349]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,494]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 2,116]]>
+            </line>
+            <line>
+              <![CDATA[Price for LEVISis : Rs. 1,399]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+            </line>
+            <line>
+              <![CDATA[Price for DNMXis : Rs. 240]]>
+            </line>
+            <line>
+              <![CDATA[Price for DNMXis : Rs. 280]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,750]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 5,849]]>
+            </line>
+            <line>
+              <![CDATA[Price for Carlton Londonis : Rs. 1,494]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 800]]>
+            </line>
+            <line>
+              <![CDATA[Price for LEVISis : Rs. 700]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 659]]>
+            </line>
+            <line>
+              <![CDATA[Price for CRUSSETis : Rs. 480]]>
+            </line>
+            <line>
+              <![CDATA[Price for Carlton Londonis : Rs. 1,429]]>
+            </line>
+            <line>
+              <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,754]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,350]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 2,700]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,679]]>
+            </line>
+            <line>
+              <![CDATA[Price for TOMMY HILFIGERis : Rs. 1,494]]>
+            </line>
+            <line>
+              <![CDATA[Price for NETWORKis : Rs. 279]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="12835" started-at="2021-05-03T08:32:06Z" data-provider="getData" finished-at="2021-05-03T08:32:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shoes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for NIKEis : Rs. 2,546]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 3,549]]>
+            </line>
+            <line>
+              <![CDATA[Price for WOAKERSis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 1,750]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Leatherkraftis : Rs. 500]]>
+            </line>
+            <line>
+              <![CDATA[Price for RED TAPEis : Rs. 600]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 3,709]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,327]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 2,364]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 5,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for LEVISis : Rs. 1,679]]>
+            </line>
+            <line>
+              <![CDATA[Price for Walkstyleis : Rs. 533]]>
+            </line>
+            <line>
+              <![CDATA[Price for CROCSis : Rs. 2,037]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,659]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 3,349]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 2,364]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 2,199]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 299]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 4,674]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 2,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for EL PASOis : Rs. 696]]>
+            </line>
+            <line>
+              <![CDATA[Price for EL PASOis : Rs. 999]]>
+            </line>
+            <line>
+              <![CDATA[Price for ADIDASis : Rs. 1,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for EL PASOis : Rs. 648]]>
+            </line>
+            <line>
+              <![CDATA[Price for IDis : Rs. 1,594]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 499]]>
+            </line>
+            <line>
+              <![CDATA[Price for Campusis : Rs. 1,499]]>
+            </line>
+            <line>
+              <![CDATA[Price for RED TAPEis : Rs. 779]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 3,499]]>
+            </line>
+            <line>
+              <![CDATA[Price for STELVIOis : Rs. 1,264]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 1,935]]>
+            </line>
+            <line>
+              <![CDATA[Price for Mactreeis : Rs. 682]]>
+            </line>
+            <line>
+              <![CDATA[Price for CROCSis : Rs. 2,156]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 2,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 2,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for U.S. Polo Assn.is : Rs. 1,499]]>
+            </line>
+            <line>
+              <![CDATA[Price for CROCSis : Rs. 4,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for Campusis : Rs. 979]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 5,109]]>
+            </line>
+            <line>
+              <![CDATA[Price for Pumais : Rs. 2,000]]>
+            </line>
+            <line>
+              <![CDATA[Price for STELVIOis : Rs. 879]]>
+            </line>
+            <line>
+              <![CDATA[Price for UNITED COLORS OF BENETTONis : Rs. 1,659]]>
+            </line>
+            <line>
+              <![CDATA[Price for AARGENTis : Rs. 360]]>
+            </line>
+            <line>
+              <![CDATA[Price for Skechersis : Rs. 4,999]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="13803" started-at="2021-05-03T08:32:19Z" data-provider="getData" finished-at="2021-05-03T08:32:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Watches]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for GOQiiis : Rs. 5,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for Scuderia Ferrariis : Rs. 3,483]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 6,789]]>
+            </line>
+            <line>
+              <![CDATA[Price for Scuderia Ferrariis : Rs. 3,483]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 7,178]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 5,975]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 15,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for French Connectionis : Rs. 5,000]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 9,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 10,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for Casiois : Rs. 6,566]]>
+            </line>
+            <line>
+              <![CDATA[Price for SUPERDRYis : Rs. 2,399]]>
+            </line>
+            <line>
+              <![CDATA[Price for FOSSILis : Rs. 9,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for Scuderia Ferrariis : Rs. 5,378]]>
+            </line>
+            <line>
+              <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 11,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for ELLEis : Rs. 6,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 3,498]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for ARMANI EXCHANGEis : Rs. 13,495]]>
+            </line>
+            <line>
+              <![CDATA[Price for SKAGENis : Rs. 9,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for Casiois : Rs. 12,596]]>
+            </line>
+            <line>
+              <![CDATA[Price for Scuderia Ferrariis : Rs. 7,628]]>
+            </line>
+            <line>
+              <![CDATA[Price for Scuderia Ferrariis : Rs. 8,475]]>
+            </line>
+            <line>
+              <![CDATA[Price for Timexis : Rs. 3,326]]>
+            </line>
+            <line>
+              <![CDATA[Price for SUPERDRYis : Rs. 2,399]]>
+            </line>
+            <line>
+              <![CDATA[Price for French Connectionis : Rs. 3,816]]>
+            </line>
+            <line>
+              <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 4,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for Timexis : Rs. 1,859]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 6,975]]>
+            </line>
+            <line>
+              <![CDATA[Price for Casiois : Rs. 8,096]]>
+            </line>
+            <line>
+              <![CDATA[Price for FCUKis : Rs. 1,650]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 3,021]]>
+            </line>
+            <line>
+              <![CDATA[Price for TEAKWOOD LEATHERSis : Rs. 2,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for Daniel Kleinis : Rs. 2,275]]>
+            </line>
+            <line>
+              <![CDATA[Price for SUPERDRYis : Rs. 2,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Casiois : Rs. 22,496]]>
+            </line>
+            <line>
+              <![CDATA[Price for Timexis : Rs. 2,656]]>
+            </line>
+            <line>
+              <![CDATA[Price for Casiois : Rs. 8,096]]>
+            </line>
+            <line>
+              <![CDATA[Price for SUPERDRYis : Rs. 2,250]]>
+            </line>
+            <line>
+              <![CDATA[Price for FOSSILis : Rs. 7,995]]>
+            </line>
+            <line>
+              <![CDATA[Price for LACOSTEis : Rs. 6,053]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="12123" started-at="2021-05-03T08:32:33Z" data-provider="getData" finished-at="2021-05-03T08:32:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[fruits]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 269]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 269]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 709]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 239]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 237]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 369]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 369]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 319]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 599]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 509]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 509]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 629]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 329]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 609]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 349]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 709]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 399]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 559]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 399]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 299]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 349]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 299]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 249]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 186]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 359]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 499]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 259]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 229]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+            </line>
+            <line>
+              <![CDATA[Price for FRUIT OF THE LOOMis : Rs. 699]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="10185" started-at="2021-05-03T08:32:45Z" data-provider="getData" finished-at="2021-05-03T08:32:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[humans]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for COMDAQis : Rs. 599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Reebokis : Rs. 750]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Studio B40is : Rs. 594]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 7,199]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,149]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 4,499]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,149]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,249]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 1,799]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 3,599]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 7,199]]>
+            </line>
+            <line>
+              <![CDATA[Price for Saral Homeis : Rs. 2,699]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="Ajio(java.lang.String)[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="Ajio" duration-ms="7672" started-at="2021-05-03T08:32:55Z" data-provider="getData" finished-at="2021-05-03T08:33:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[puppies]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Price for BARBIEis : Rs. 909]]>
+            </line>
+            <line>
+              <![CDATA[Price for WINFUNis : Rs. 1,737]]>
+            </line>
+            <line>
+              <![CDATA[Price for Miradais : Rs. 467]]>
+            </line>
+            <line>
+              <![CDATA[Price for IWAYAis : Rs. 749]]>
+            </line>
+            <line>
+              <![CDATA[Price for SOFT BUDDIESis : Rs. 524]]>
+            </line>
+            <line>
+              <![CDATA[Price for HANLEY WOODis : Rs. 996]]>
+            </line>
+            <line>
+              <![CDATA[Price for FISHER PRICEis : Rs. 3,365]]>
+            </line>
+            <line>
+              <![CDATA[Price for SILVERLITis : Rs. 4,436]]>
+            </line>
+            <line>
+              <![CDATA[Price for FISHER PRICEis : Rs. 1,259]]>
+            </line>
+            <line>
+              <![CDATA[Price for SOFT BUDDIESis : Rs. 749]]>
+            </line>
+            <line>
+              <![CDATA[Price for IMCis : Rs. 3,999]]>
+            </line>
+            <line>
+              <![CDATA[Price for Mothercareis : Rs. 1,019]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Ajio -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.Ajiotest.TestCase@3f49dace]" name="TearDown" is-config="true" duration-ms="201" started-at="2021-05-03T08:33:03Z" finished-at="2021-05-03T08:33:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.Ajiotest.TestCase -->
+    </test> <!-- Ajio -->
+  </suite> <!-- Suite -->
+</testng-results>

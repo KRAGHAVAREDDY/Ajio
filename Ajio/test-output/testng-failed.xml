@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="amazon(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="pageUrl" value="https://www.Ajio.com/"/>
+    <classes>
+      <class name="com.Ajiotest.TestCase">
+        <methods>
+          <include name="Setup"/>
+          <include name="Snapdeal"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- com.Ajiotest.TestCase -->
+    </classes>
+  </test> <!-- amazon(failed) -->
+</suite> <!-- Failed suite [Suite] -->
