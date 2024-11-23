@@ -1,10 +1,12 @@
 cd C:\Users\venka\git\Ajio\Ajio
 mvn clean install
-abc
+abcd
 reddy
 
 kiran
 mamilla
 kumar
 raghava
-mamillad
+mamilla
+muttala
+atmakur
